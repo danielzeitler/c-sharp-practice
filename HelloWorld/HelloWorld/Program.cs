@@ -1,11 +1,14 @@
-﻿using System;
-
-namespace HelloWorld {
+﻿namespace HelloWorld {
     class Program {
         static void Main(string[] args)
         {
-            const float Pi = 3.14f;
-            Console.WriteLine(Pi);
+            Person person = new Person("daniel", "testuser");
+            person.introduce();
+
+            Car.Car car = new Car.Car(4, "Racer");
+            car.BuildCar();
         }
     }
 }
+
+
