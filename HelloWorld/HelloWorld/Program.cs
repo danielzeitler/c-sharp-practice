@@ -29,13 +29,21 @@ namespace HelloWorld
                 Console.WriteLine(number);
             }*/
 
-            var numbers = new List<int>() { 1, 2, 3, 4 };
+            /*var numbers = new List<int>() { 1, 2, 3, 4 };
             numbers.Add(4);
             numbers.AddRange(new int[3] { 5, 6, 7 });
             foreach (var number in numbers)
             {
                 Console.WriteLine(number);
-            }
+            }*/
+
+            DateTime date = new DateTime(2015, 1, 1);
+            DateTime now = DateTime.Now;
+            DateTime today = DateTime.Today;
+            
+            Console.WriteLine(date);
+            Console.WriteLine(now.Date);
+            Console.WriteLine(now.ToString("dd.MM.yyyy"));
         }
     }
 }
