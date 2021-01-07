@@ -37,13 +37,15 @@ namespace HelloWorld
                 Console.WriteLine(number);
             }*/
 
-            DateTime date = new DateTime(2015, 1, 1);
-            DateTime now = DateTime.Now;
-            DateTime today = DateTime.Today;
+            // DateTime date = new DateTime(2015, 1, 1);
+            // DateTime now = DateTime.Now;
+            // DateTime today = DateTime.Today;
+            //
+            // Console.WriteLine(date);
+            // Console.WriteLine(now.Date);
+            // Console.WriteLine(now.ToString("dd.MM.yyyy"));
             
-            Console.WriteLine(date);
-            Console.WriteLine(now.Date);
-            Console.WriteLine(now.ToString("dd.MM.yyyy"));
+            
         }
     }
 }
