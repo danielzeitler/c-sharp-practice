@@ -1,0 +1,15 @@
+/Users/daniel/Documents/Code Projects/c-sharp/c-sharp-learning/HelloWorld/LectureV2/bin/Debug/net5.0/LectureV2.deps.json
+/Users/daniel/Documents/Code Projects/c-sharp/c-sharp-learning/HelloWorld/LectureV2/bin/Debug/net5.0/LectureV2.runtimeconfig.json
+/Users/daniel/Documents/Code Projects/c-sharp/c-sharp-learning/HelloWorld/LectureV2/bin/Debug/net5.0/LectureV2.runtimeconfig.dev.json
+/Users/daniel/Documents/Code Projects/c-sharp/c-sharp-learning/HelloWorld/LectureV2/bin/Debug/net5.0/LectureV2.dll
+/Users/daniel/Documents/Code Projects/c-sharp/c-sharp-learning/HelloWorld/LectureV2/bin/Debug/net5.0/ref/LectureV2.dll
+/Users/daniel/Documents/Code Projects/c-sharp/c-sharp-learning/HelloWorld/LectureV2/bin/Debug/net5.0/LectureV2.pdb
+/Users/daniel/Documents/Code Projects/c-sharp/c-sharp-learning/HelloWorld/LectureV2/obj/Debug/net5.0/LectureV2.csprojAssemblyReference.cache
+/Users/daniel/Documents/Code Projects/c-sharp/c-sharp-learning/HelloWorld/LectureV2/obj/Debug/net5.0/LectureV2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Documents/Code Projects/c-sharp/c-sharp-learning/HelloWorld/LectureV2/obj/Debug/net5.0/LectureV2.AssemblyInfoInputs.cache
+/Users/daniel/Documents/Code Projects/c-sharp/c-sharp-learning/HelloWorld/LectureV2/obj/Debug/net5.0/LectureV2.AssemblyInfo.cs
+/Users/daniel/Documents/Code Projects/c-sharp/c-sharp-learning/HelloWorld/LectureV2/obj/Debug/net5.0/LectureV2.csproj.CoreCompileInputs.cache
+/Users/daniel/Documents/Code Projects/c-sharp/c-sharp-learning/HelloWorld/LectureV2/obj/Debug/net5.0/LectureV2.dll
+/Users/daniel/Documents/Code Projects/c-sharp/c-sharp-learning/HelloWorld/LectureV2/obj/Debug/net5.0/ref/LectureV2.dll
+/Users/daniel/Documents/Code Projects/c-sharp/c-sharp-learning/HelloWorld/LectureV2/obj/Debug/net5.0/LectureV2.pdb
+/Users/daniel/Documents/Code Projects/c-sharp/c-sharp-learning/HelloWorld/LectureV2/obj/Debug/net5.0/LectureV2.genruntimeconfig.cache
